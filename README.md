@@ -105,6 +105,10 @@ Forecast future sales using predictive analytics
 Automate data refresh
 
 
+-----DASHBOARD----
 
+
+
+![image alt](https://github.com/Paipuru-vamsi-krishna/Hardy-s-Cookies-Sales-Dashboard-2019--2020-/blob/2d5084faa288bb6507e45c4c5973e5f0f08f5dd8/WhatsApp%20Image%202026-02-05%20at%2010.45.17%20PM.jpeg)
 
 
