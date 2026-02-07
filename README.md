@@ -103,3 +103,17 @@ Integrate customer segmentation
 Forecast future sales using predictive analytics
 
 Automate data refresh
+
+
+
+
+
+------DASHBOARD------
+
+
+
+
+
+
+
+![image alt](https://github.com/Paipuru-vamsi-krishna/Hardy-s-Cookies-Sales-Dashboard-2019--2020-/blob/3073d030b9d8626049db7fdfdf92d922f88b8d8e/WhatsApp%20Image%202026-02-05%20at%2010.45.17%20PM.jpeg)
