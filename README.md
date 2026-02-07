@@ -110,7 +110,7 @@ Automate data refresh
 
 ------DASHBOARD------
 
-
+![image alt](https://github.com/Paipuru-vamsi-krishna/Hardy-s-Cookies-Sales-Dashboard-2019--2020-/blob/85e4c7b763c73942eea453d5fa49c6365fd4bf4d/WhatsApp%20Image%202026-02-05%20at%2010.45.17%20PM.jpeg)
 
 
 
